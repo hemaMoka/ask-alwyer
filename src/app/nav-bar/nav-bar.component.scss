@@ -1,0 +1,20 @@
+.nav-link{
+  color: #333 !important;
+  font-weight: 600;
+  font-size: large;
+  &:hover{
+    color: #39a1bc !important;
+  }
+}
+
+.nav-item {
+  margin-right: .5rem;
+  .btn{
+    border: 2px solid #39a1bc;
+    &:hover{
+      background-color: #39a1bc;
+      color: white !important;
+    }
+  }
+
+}

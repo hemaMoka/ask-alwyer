@@ -1,0 +1,19 @@
+.info,
+.area,
+.skills,
+.Certifications{
+  box-shadow: 0px 3px 29px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 3px 29px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 3px 29px 0px rgba(0, 0, 0, 0.75);
+}
+
+label{
+  font-weight: 800;
+  margin-bottom: .5rem;
+  color: white;
+}
+
+.fa-circle-xmark{
+  font-size: 22px;
+  cursor: pointer;
+}

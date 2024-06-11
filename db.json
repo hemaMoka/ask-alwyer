@@ -1,0 +1,64 @@
+{
+  "lawyers":[
+    {
+      "id":1,
+      "name":"Zein Elabdin Yousif",
+      "image":"assets/images/24.jpg",
+      "title":"Professional Biography",
+      "job-title":"Senior Legal Advisor",
+      "desc":"Mr. Zein Yousif is a Senior Legal Advisor in Fahad Al Suwaiket & Bader AlBusaiyes Attorneys at Law, prior joining us, he was a legal consultant in Al Bassam Law firm at Al Khobar since 2007. He holds a Bachelor Degree in Law from Cady Ayad University (Morocco) with a major in Private law in 1992, and completed courses in Mercantile law “English Commercial law” Contract, and Tort organized by Academy of Comparative Law in Khartoum (Sudan) , admitted to Sudan Bar Association on 1995 and a licensed lawyer before all courts in Sudan since 1995, Mr. Zein has extensive experience accumulated for over twenty years in advising local and international clients with legal consultations on corporate law, Foreign Investment law, merger and acquisition, labor and employment, draft and review all kinds of contracts, draft legal pleads and conduction legal due diligence.Zein keeping updated with the regulatory information and has vast knowledge about the government systems which gave him an insight of the local laws and latest amendments. With the major experience he has achieved from various law firms since 1995, he is very diversified in handling commercial, civil and criminal law systems.",
+      "Practice-Areas":"The area of his practice and expertise are Corporate law, Company set up, Foreign Investment, Legal Due Diligence, Merger and Acquisition, Labor and Employment, Contracts and Agreements, drafting commercial agency agreements, draft Articles of Association for Companies and Shareholders Resolutions, Drafting legal pleads, drafting Internal Labor Regulations for Companies, Tenders, Legal Advising and legal researches. He advises corporates and individuals on various aspects of law in different matters.",
+      "Certifications":"Certificate in Law Profession- Ministry of Justice Sudan- 1994 Courses in Mercantile law “English Commercial law” Contract, and Tort organized by Academy of Comparative Law in Khartoum –Sudan (1999)",
+      "Skills":[
+        "Legal Drafting",
+        "Corporate Legal Advice",
+        "Client relation",
+        "Management Capability",
+        "Labor and Employment",
+        "Legal due diligence",
+        "Contracts",
+        "Litigation"
+      ]
+    },
+    {
+      "id":2,
+      "name":"Malik Al Rashdan",
+      "image":"assets/images/22.jpg",
+      "title":"Professional Biography",
+      "job-title":"Legal Advisor",
+      "desc":"Mr. Zein Yousif is a Senior Legal Advisor in Fahad Al Suwaiket & Bader AlBusaiyes Attorneys at Law, prior joining us, he was a legal consultant in Al Bassam Law firm at Al Khobar since 2007. He holds a Bachelor Degree in Law from Cady Ayad University (Morocco) with a major in Private law in 1992, and completed courses in Mercantile law “English Commercial law” Contract, and Tort organized by Academy of Comparative Law in Khartoum (Sudan) , admitted to Sudan Bar Association on 1995 and a licensed lawyer before all courts in Sudan since 1995, Mr. Zein has extensive experience accumulated for over twenty years in advising local and international clients with legal consultations on corporate law, Foreign Investment law, merger and acquisition, labor and employment, draft and review all kinds of contracts, draft legal pleads and conduction legal due diligence.Zein keeping updated with the regulatory information and has vast knowledge about the government systems which gave him an insight of the local laws and latest amendments. With the major experience he has achieved from various law firms since 1995, he is very diversified in handling commercial, civil and criminal law systems.",
+      "Practice-Areas":"The area of his practice and expertise are Corporate law, Company set up, Foreign Investment, Legal Due Diligence, Merger and Acquisition, Labor and Employment, Contracts and Agreements, drafting commercial agency agreements, draft Articles of Association for Companies and Shareholders Resolutions, Drafting legal pleads, drafting Internal Labor Regulations for Companies, Tenders, Legal Advising and legal researches. He advises corporates and individuals on various aspects of law in different matters.",
+      "Certifications":"Completed a course in Wages and Salaries Deduction Holding Advocacy License from Jordan Bar Association",
+      "Skills":[
+        "Legal Drafting",
+        "Corporate Legal Advice",
+        "Client relation",
+        "Management Capability",
+        "Labor and Employment",
+        "Legal due diligence",
+        "Contracts",
+        "Litigation"
+      ]
+    },
+    {
+      "id":3,
+      "name":"Meshari AlSuhaimi",
+      "image":"assets/images/Meshari.jpg",
+      "title":"Professional Biography",
+      "job-title":"Associate",
+      "desc":"Mr. Zein Yousif is a Senior Legal Advisor in Fahad Al Suwaiket & Bader AlBusaiyes Attorneys at Law, prior joining us, he was a legal consultant in Al Bassam Law firm at Al Khobar since 2007. He holds a Bachelor Degree in Law from Cady Ayad University (Morocco) with a major in Private law in 1992, and completed courses in Mercantile law “English Commercial law” Contract, and Tort organized by Academy of Comparative Law in Khartoum (Sudan) , admitted to Sudan Bar Association on 1995 and a licensed lawyer before all courts in Sudan since 1995, Mr. Zein has extensive experience accumulated for over twenty years in advising local and international clients with legal consultations on corporate law, Foreign Investment law, merger and acquisition, labor and employment, draft and review all kinds of contracts, draft legal pleads and conduction legal due diligence.Zein keeping updated with the regulatory information and has vast knowledge about the government systems which gave him an insight of the local laws and latest amendments. With the major experience he has achieved from various law firms since 1995, he is very diversified in handling commercial, civil and criminal law systems.",
+      "Practice-Areas":"The area of his practice and expertise are Corporate law, Company set up, Foreign Investment, Legal Due Diligence, Merger and Acquisition, Labor and Employment, Contracts and Agreements, drafting commercial agency agreements, draft Articles of Association for Companies and Shareholders Resolutions, Drafting legal pleads, drafting Internal Labor Regulations for Companies, Tenders, Legal Advising and legal researches. He advises corporates and individuals on various aspects of law in different matters.",
+      "Certifications":"Completed a course in Wages and Salaries Deduction Holding Advocacy License from Jordan Bar Association",
+      "Skills":[
+        "Legal Drafting",
+        "Corporate Legal Advice",
+        "Client relation",
+        "Management Capability",
+        "Labor and Employment",
+        "Legal due diligence",
+        "Contracts",
+        "Litigation"
+      ]
+    }
+  ]
+}
